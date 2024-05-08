@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "356730112455",
+    "firebase_url": "https://wni-db-default-rtdb.firebaseio.com",
+    "project_id": "wni-db",
+    "storage_bucket": "wni-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356730112455:android:b35d8fd84668014b5db1e2",
+        "android_client_info": {
+          "package_name": "com.example.project_apk_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaYGE72Koa9ojv3chBYBkWxaoRub0TNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356730112455:android:de4cfd67c56ad9be5db1e2",
+        "android_client_info": {
+          "package_name": "com.example.project_uas_wni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaYGE72Koa9ojv3chBYBkWxaoRub0TNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
